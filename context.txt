@@ -1,0 +1,3 @@
+I have used Streamlit library to develop a simple applicaiton,
+named as "app.py"
+To run this file from command prompt- "streamlit run app.py"
